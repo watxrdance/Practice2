@@ -1,4 +1,4 @@
-# Event Registry
+# Selfhate
 
 Сайт по продаже вещей
 
